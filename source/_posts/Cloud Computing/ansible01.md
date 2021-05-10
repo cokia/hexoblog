@@ -3,6 +3,7 @@
 title: Ansible 알아보기
 date: 2019-12-01 23:26:29
 tags: Ansible
+categories: CloudComputing
 
 ---
 
@@ -110,5 +111,5 @@ Ansible 을 실행할 서버 이외의 관리당할 서버에는 agent를 따로
 
 오늘은 졸려서 이정도로 간단히 정리만 하고자한다. 내일 일어나서 ****Ansible**** 설치해서 가지고 놀며 후기를 남기도록 하겠다 :)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTE1MjU0NF19
+eyJoaXN0b3J5IjpbLTg2MDIyNzM3OV19
 -->
