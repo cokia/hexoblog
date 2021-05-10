@@ -1,10 +1,8 @@
 ---
 title: hexo 로 쉽게 나만의 블로그 만들기 with Github pages
 date: 2019-01-23 21:20:25
-categories: 
-- DEV
-tags:
-- dev
+categories: DEV
+tags: dev
 thumbnail: http://www.ybrikman.com/assets/img/blog/github-pages/github-pages.png
 
 ---
@@ -68,5 +66,5 @@ Deploy:
 
 수고많았다! 드디어 여러분도 여러분의 블로그를 github page로 만들었다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzkyMDA3OF19
+eyJoaXN0b3J5IjpbLTExODQ1MDUwXX0=
 -->
