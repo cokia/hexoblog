@@ -4,7 +4,7 @@ date: 2019-02-06 22:28:08
 tags: - dev
 - blockchain
 - ethereum
-categories: - Blockchain
+categories: Blockchain
 ---
 
 ## "본격 이더리움 DAPP 만들기 시리즈"
@@ -75,5 +75,5 @@ web3 provider는 RPC 서버와 연동해 테스트넷이나 메인넷에 디플�
 [본격 이더리움 DAPP 만들기 (컨트렉트 작성하기) [2/4]](http://blog.hanukoon.com/ethereumdapp02)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Njc4ODgzNCwyMTI3MzEwNzM2XX0=
+eyJoaXN0b3J5IjpbLTYyMjU1NjI3MywyMTI3MzEwNzM2XX0=
 -->
