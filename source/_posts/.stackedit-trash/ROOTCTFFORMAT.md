@@ -40,3 +40,6 @@ IHDR이 터졌단다.. 그래서 다른 정상 PNG랑 같이 열어서 확인 �
 open("fix.png","w+b").write(t)
 ![](https://user-images.githubusercontent.com/24792377/51729852-b1c41600-20b8-11e9-852c-68bbf4c7e05f.png)
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0MDY4MDU4MzhdfQ==
+-->

@@ -145,3 +145,6 @@ Flag is `DIMI{ju5t_c0mmoN_j4va_Dec0mPil3_}`
 Flag is `DIMI{m1nu5_b4nk_cUrR:p7}`
 
 나름 이번 씨텝도 머꿀잼이였다. 본선땐 포너블 열심히 해서 한문제라도 풀어봐야겠다 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExOTgwMzM3NjldfQ==
+-->

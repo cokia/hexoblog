@@ -46,3 +46,6 @@ hubgit 이라는 이름에서 추측할 수 있듯이 문제파일을 받아 압
 플래그가 나오게 된다.
 
 **FLAG{GIT_8rob1em_7h@t_C4n_b3_50lv3d_in_O63_M1nu7e!}**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1MzE2OTQ3MjldfQ==
+-->
