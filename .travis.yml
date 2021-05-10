@@ -1,0 +1,20 @@
+language: node_js
+node_js:
+  - "9"
+
+branches:
+  only:
+    - master
+
+install:
+  - npm install
+
+before_script:
+  - git config --global user.name 'YOURE_USERNAME'
+  - git config --global user.email 'YOURE_EMAIL'
+  - sed -i "s/__GITHUB_TOKEN__/${__GITHUB_TOKEN__}/" _config.yml
+
+script:
+  - hexo clean
+  - hexo generate
+  - hexo deploy
