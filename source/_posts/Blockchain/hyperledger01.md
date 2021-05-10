@@ -5,7 +5,7 @@ tags:
 -dev
 -blockchain
 -hyperledger
-categories: -Blockchain
+categories: Blockchain
 
 ---
 
@@ -222,6 +222,7 @@ PostMan → Rest API TEST
 
 실제 환경 구축을 위해 Docker 활용
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzkwMzc2MTMsLTU1MDQyMjg4OCw2Nz
-I2NTMwMTIsNTcxMzc5NDMwLDE1ODQyNTkwNDVdfQ==
+eyJoaXN0b3J5IjpbLTU1MDQyMjg4OCwtMTk3OTAzNzYxMywtNT
+UwNDIyODg4LDY3MjY1MzAxMiw1NzEzNzk0MzAsMTU4NDI1OTA0
+NV19
 -->
