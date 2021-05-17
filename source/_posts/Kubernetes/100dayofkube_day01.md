@@ -1,14 +1,8 @@
 ---
-title: [쿠버네티스] DAY01 - 쿠버네티스란? 
-date: 2021-05-10 00:39:29 
-categories: Kubernetes 
-tags: 
-- kubernetes 
-- 100DaysOfKubernetes 
-- 쿠버네티스 
-- 서버 
-- 클라우드 
-- 컨테이너 
+title : [쿠버네티스] DAY01 - 쿠버네티스란? 
+date : 2021-05-10 00:39:29 
+categories : Kubernetes 
+tags : [kubernetes,100DaysOfKubernetes,쿠버네티스,서버,클라우드,컨테이너]
 
 ---
 ![](https://i.imgur.com/4VsZ92N.png)
@@ -77,6 +71,6 @@ tags:
 
 이 글에서는 쿠버네티스의 개념, 장점과 목적, 쿠버네티스의 아키텍쳐와 파드의 개념에 대해서 다루어 보았다. 다음 글에서는 쿠버네티스의 아키텍쳐에 대해 조금 더 깊게 다루어 보도록 하겠다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1ODEwMTAzLC04MjE0Mzc3LDg0MjE5Nz
-I5OF19
+eyJoaXN0b3J5IjpbLTI3ODU3NjY5Myw3OTU4MTAxMDMsLTgyMT
+QzNzcsODQyMTk3Mjk4XX0=
 -->
