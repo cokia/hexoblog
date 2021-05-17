@@ -1,10 +1,7 @@
 ---
 title : 하이퍼레저 톺아보기 
 date : 2019-04-12 10:03:39 
-tags : 
--dev 
--blockchain 
--hyperledger 
+tags: [dev,blockchain,hyperledger]
 categories : Blockchain 
 
 ---
@@ -222,7 +219,7 @@ PostMan → Rest API TEST
 
 실제 환경 구축을 위해 Docker 활용
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDA3NDM1OTQsLTU1MDQyMjg4OCwtMT
-k3OTAzNzYxMywtNTUwNDIyODg4LDY3MjY1MzAxMiw1NzEzNzk0
-MzAsMTU4NDI1OTA0NV19
+eyJoaXN0b3J5IjpbNTM2MzcwNjE3LC0xNjQwNzQzNTk0LC01NT
+A0MjI4ODgsLTE5NzkwMzc2MTMsLTU1MDQyMjg4OCw2NzI2NTMw
+MTIsNTcxMzc5NDMwLDE1ODQyNTkwNDVdfQ==
 -->
