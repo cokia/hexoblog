@@ -10,8 +10,8 @@ install:
   - npm install
 
 before_script:
-  - git config --global user.name 'YOURE_USERNAME'
-  - git config --global user.email 'YOURE_EMAIL'
+  - git config --global user.name 'cokia'
+  - git config --global user.email 'hwymaster01@gmail.com'
   - sed -i "s/__GITHUB_TOKEN__/${__GITHUB_TOKEN__}/" _config.yml
 
 script:
