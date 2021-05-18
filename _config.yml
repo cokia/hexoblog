@@ -88,10 +88,8 @@ markdown:
   smartLists: true
   smartypants: true
 
-# Deployment
-## Docs: http://zespia.tw/hexo/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/cokia/cokia.github.io.git
+  repo: https://__GITHUB_TOKEN__@github.com/cokia/cokia.github.io
   branch: master
   message: "travis auto deploy"
